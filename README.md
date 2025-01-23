@@ -3,7 +3,7 @@
 ## Records
 
 ###  LeetCode Progress
-![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee&ext=activity&ext=heatmap)
+![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee&ext=activity)
 
 ## Problems
 
