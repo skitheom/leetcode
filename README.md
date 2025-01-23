@@ -4,13 +4,9 @@
 
 ###  LeetCode Progress
 ![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee)
-![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee&ext=activity)
-![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee&ext=heatmap)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/skith?ext=activity)
+![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee&ext=activity&ext=heatmap)
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/skith?ext=heatmap)
 
 
 ## Problems
