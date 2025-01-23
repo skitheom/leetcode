@@ -3,11 +3,7 @@
 ## Records
 
 ###  LeetCode Progress
-![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee)
-
-### Annual Progress
-- 2024: Solved 4 problems
-- 2025: On going ... currently 0
+![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee?ext=activity)
 
 ## Problems
 
