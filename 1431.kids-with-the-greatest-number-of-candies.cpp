@@ -8,7 +8,6 @@
 class Solution {
 public:
   vector<bool> kidsWithCandies(vector<int> &candies, int extraCandies) {
-
     vector<bool> res;
 
     auto it = max_element(candies.begin(), candies.end());
