@@ -10,19 +10,20 @@ public:
   void moveZeroes(vector<int> &nums) {
 
     size_t n = nums.size();
-    vector<int> copy(nums);
+    size_t indexToCopy = 0;
+    size_t indexCopyFrom = 0;
 
-    size_t numsIndex = 0;
-    for (size_t copyIndex = 0; copyIndex < n; copyIndex++) {
-      if (copy[copyIndex] == 0) {
-        continue;
+    while (indexCopyFrom < n) {
+      if (nums[indexCopyFrom] != 0) {
+        nums[indexToCopy] = nums[indexCopyFrom];
+        indexToCopy++;
       }
-      nums[numsIndex] = copy[copyIndex];
-      numsIndex++;
+      indexCopyFrom++;
     }
 
-    for (size_t i = numsIndex; i < n; i++) {
-      nums[i] = 0;
+    while (indexToCopy < n) {
+      nums[indexToCopy] = 0;
+      indexToCopy++;
     }
   }
 };
